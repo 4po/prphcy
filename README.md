@@ -7,7 +7,7 @@
 **Bienvenue à toi.**
 
 La Prophecy est une section informatique de la APO. Avec les membres primordiaux :
-- [@apo#2222](https://github.com/ktzdc)
+- [@apo#2222](https://github.com/4po)
 - [@150k](https://github.com/150k)
 - [@Stylak](https://github.com/stylak)
 
@@ -68,8 +68,8 @@ const ktz = {
 
 ---
 
-🔎 From [@ktzDC](https://github.com/ktzdc)
-🔎 Tiktok [Soon]
+🔎 From [@apo](https://github.com/4po)
+🔎 Other [Soon]
 
 
 
