@@ -51,7 +51,7 @@ const ktz = {
 
 <p align="center">
    <a href="https://discord.gg/apo">
-         <img src="https://media.discordapp.net/attachments/790712848984571905/850159226240368650/source.gif" width="78"> 
+         <img src="https://cdn2.scratch.mit.edu/get_image/user/16311207_60x60.png" width="78"> 
 </p>
 
 <p align="center">
