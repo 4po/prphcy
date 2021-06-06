@@ -13,7 +13,7 @@ La Prophecy est une section informatique de la APO. Avec les membres primordiaux
 
 
 
-    <var ktz = new TropHlou()>
+    <var prphcy = new metasploituser()>
 
 ```javascript
 const ktz = {
