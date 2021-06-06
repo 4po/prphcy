@@ -4,11 +4,13 @@
 ─────────────────────────────────────
 </p>
 
-**Hey !**
+**Bienvenue à toi.**
 
-Je suis un jeune étudiant agées de 15 ans, qui se lance dans la Cyber-Securité. Ca fait maintenant plus de 2 ans que je Developpe avec mes collegues Discordien : optic/LAZERY/Yass
+La Prophecy est une section informatique de la APO. Avec les membres primordiaux :
+- [@apo#2222](https://github.com/ktzdc)
+- [@150k](https://github.com/150k)
+- [@Stylak](https://github.com/stylak)
 
-N'hésite pas à me follow sur tweeter ! [ ktzDC ]
 
 
     <var ktz = new TropHlou()>
