@@ -17,10 +17,10 @@ La Prophecy est une section informatique de la APO. Avec les membres primordiaux
 
 ```javascript
 const ktz = {
-    name: "hamza" | "ktz",
-    reseaux: {
-            insta: ["Soon"],
-            snap: ["ktzDC"]
+    name: "prophecy" | "apo",
+    hijacking : {
+            telegram : ["prphcy"],
+            skype : ["prphcy"]
         },
         Dev: {
         
