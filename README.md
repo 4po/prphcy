@@ -10,7 +10,7 @@ La Prophecy est une section informatique de la APO. Avec les membres primordiaux
 - [@4po](https://github.com/4po)
 - [@150k](https://github.com/150k)
 - [@Stylak](https://github.com/stylak)
-- [@rebel](https://github.com/rebeld0ms)
+- [@rebeld0ms](https://github.com/rebeld0ms)
 
 
     <var prphcy = new metasploituser()>
