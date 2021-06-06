@@ -39,24 +39,24 @@ const ktz = {
 
 
 
-<a href="https://discord.gg/53AJ3rtHSv">
-  <img src="https://img.shields.io/github/followers/ktzDC">
+<a href="https://discord.gg/apo">
+  <img src="https://img.shields.io/github/followers/4po">
 </a>
 <a href="https://discord.gg/53AJ3rtHSv">
-   <img src="https://komarev.com/ghpvc/?username=ktzDC">
+   <img src="https://komarev.com/ghpvc/?username=4po">
 </a>
-<a href="https://discord.gg/53AJ3rtHSv">
+<a href="https://discord.gg/apo">
          <img src="https://img.shields.io/static/v1?label=Website&logo=CSS3&logoColor=1572B6&message=Click%20Here&color=1572B6">
          </a>
 
 <p align="center">
-   <a href="https://discord.gg/53AJ3rtHSv">
+   <a href="https://discord.gg/apo">
          <img src="https://media.discordapp.net/attachments/790712848984571905/850159226240368650/source.gif" width="78"> 
 </p>
 
 <p align="center">
-         <a href="https://discord.gg/53AJ3rtHSv">
-         <img src="https://media.discordapp.net/attachments/790712848984571905/850157309590372382/KTZ_low_banner.png">
+         <a href="https://discord.gg/apo">
+         <img src="https://i.imgur.com/Tdd2VeD.png">
          </a>
       
 
